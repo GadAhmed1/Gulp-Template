@@ -1,7 +1,5 @@
 # Gulp Template
 
-![Gulp Template Screenshot](https://i.ibb.co/HXXYprq/Capture.png)
-
 **Gulp Template** is a boilerplate project that utilizes **Gulp** as a task runner for automating common development tasks. This template provides a structured setup for modern web development, integrating essential tools for building responsive and efficient web applications.
 
 ## Features
